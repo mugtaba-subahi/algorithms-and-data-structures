@@ -16,3 +16,5 @@ nodeA.next = nodeB;
 nodeB.next = nodeC;
 
 console.log(nodeB);
+
+// test
